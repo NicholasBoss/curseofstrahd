@@ -1,0 +1,104 @@
+{"_id":"1Ds9cul5aI5SnIPG","name":"POI Navigators - Ignore","type":"JournalEntry","parent":"OLYhy0TuRMmTelsQ","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"5c1589783fb65ce465495d616bba3a29e4ad5d26"}}}
+{"_id":"1GH3STOPJRThFtaB","name":"Burgomaster's House","type":"Scene","parent":"I5s2Dl3Qr6bU2l9X","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"35d10a26bf2535dd4de42215c19333bf4a210e64"}}}
+{"_id":"1MAk1KioEDYd0iQm","name":"Vallaki Streets Burning","type":"Scene","parent":"2RdktLyG8y6GzxZz","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"ba99afaa234c46bf324d1c2d48cb2e1400b312b8"}}}
+{"_id":"2RdktLyG8y6GzxZz","name":"Town of Vallaki","type":"Scene","parent":"sexnSjedjsBXBOw6","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"ed5e89f2e6cc4af42aa896abd1e70ea911540b39"}}}
+{"_id":"41DTuR8qJn1gU2wG","name":"Tser Falls Approach","type":"Scene","parent":"rrj3BwruEBiJ9YeY","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"bd43b78d7381e60237a9e164cd93129dfe9d2ac1"}}}
+{"_id":"45up4OoueVWQiVef","name":"Town of Vallaki","type":"JournalEntry","parent":"vpOccFyaDNk82L1O","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"8859359b28fca5b110a138b8e1ffb0796913f257"},"core":{"sourceId":"Folder.45up4OoueVWQiVef"}}}
+{"_id":"4M6cGAxyeeZJcVei","name":"Vallaki Streets Normal","type":"Scene","parent":"2RdktLyG8y6GzxZz","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"f42b88bec38d12887091e85b45e5dc50f2058fab"}}}
+{"_id":"5DgD9vmvaC8mKO27","name":"Argynvostholdt","type":"JournalEntry","parent":"vpOccFyaDNk82L1O","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"6bba12c89948c7015340c33635ec4ce80598a3a6"}}}
+{"_id":"5P842r9nHiLvsnKf","name":"Handouts","type":"JournalEntry","parent":"5DgD9vmvaC8mKO27","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"2853f91d5c91a76e67a4f70eb39f2a0e7a19d46f"}}}
+{"_id":"6X9kzefC5hqc2roo","name":"Svalich Road","type":"Scene","parent":"NzJzNf4y1MugTwK6","sorting":"a","sort":400000,"color":null,"flags":{"scene-packer":{"hash":"a31a92d84fa488d20b28a104d84d7d85641fdc5d"}}}
+{"name":"Argynvost","type":"Playlist","parent":null,"sorting":"m","sort":0,"color":"#b8b2b2","flags":{},"_id":"6pynfP5i1Y6LvENj"}
+{"_id":"78Kag8GntXedEmBg","name":"POI Navigators - Ignore","type":"JournalEntry","parent":"Jk5KcH0ChjaEyhin","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"88e2b9f301db08a0f31e6fc97aba8cafdc693318"}}}
+{"name":"misc","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"8MVsswOyaYFfpNi3"}
+{"_id":"991fujuGhIg00l0A","name":"Death House","type":"Playlist","parent":null,"sorting":"m","sort":0,"color":"","flags":{"scene-packer":{"hash":"f4f87af958fd7a05aa928d3ff7f68d59fb7b3fe9"}}}
+{"_id":"9KoMvIe5wk1iQefk","name":"Handouts","type":"JournalEntry","parent":"OLYhy0TuRMmTelsQ","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"b3c1b0c8d14ecd95b2b64d74f3f4387c342d787d"}}}
+{"name":"Shadow","type":"JournalEntry","parent":"umX5jxvR0HZrwfb1","sorting":"a","sort":0,"color":"#98020a","flags":{},"_id":"Al52Z0MLRBZtE1b2"}
+{"_id":"BLGkpvszFtRHyyf2","name":"Old Bonegrinder","type":"JournalEntry","parent":"vpOccFyaDNk82L1O","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"4e6e5a1a3a9c77e3b2648da92f131ca41feb6a7d"}}}
+{"_id":"CBKS3OblNIGtFQcn","name":"Bluewater Inn","type":"Scene","parent":"2RdktLyG8y6GzxZz","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"c7b51de0b078fd5b95d33f02e9c105b1082ea9e4"}}}
+{"_id":"CDLShd5l00GvmolT","name":"Tser Falls Bridge","type":"Scene","parent":"rrj3BwruEBiJ9YeY","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"612e94b6eb9d565f93d7e17cc5ea55ef2a4a8529"}}}
+{"_id":"CV1ZPS9Uykdu3aaf","name":"Village of Barovia","type":"Playlist","parent":null,"sorting":"a","sort":0,"color":"#910094","flags":{}}
+{"name":"Animated Armor","type":"JournalEntry","parent":"umX5jxvR0HZrwfb1","sorting":"a","sort":0,"color":"#98020a","flags":{},"_id":"DS0W4khNioyz7djz"}
+{"_id":"DTvEzfv8U9508Arl","name":"Van Richten's Tower/Jenny's Hut","type":"JournalEntry","parent":"vpOccFyaDNk82L1O","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"4cbc4feb0aea5d5f13b3a1efc7a54950a3e8b54e"},"core":{"sourceId":"Folder.DTvEzfv8U9508Arl"}}}
+{"_id":"DX6MhOxyzdqgd0rj","name":"Tser Pool Camp","type":"Scene","parent":"rrj3BwruEBiJ9YeY","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"d1fd6e19f137f8b9de3eac224ccd90a088f0652d"}}}
+{"_id":"E1rO4wqqfgl0FIaA","name":"Church Handouts","type":"JournalEntry","parent":"45up4OoueVWQiVef","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"0e6f6a3f417c8c3f7875806bb09828acc8a6d8ff"}}}
+{"_id":"FN87ILCpudMo1H5J","name":"POI Navigators - Ignore","type":"JournalEntry","parent":"nWa6ts73IQl5eQuZ","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"cffc5e843260dcf387da247ee850dda1adeedf61"}}}
+{"_id":"GlTvyXk8aOphEneR","name":"Coffin Maker's Shop","type":"Scene","parent":"2RdktLyG8y6GzxZz","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"0840f863e3feba56d32fe21813e35046628e14e5"}}}
+{"_id":"Gt3xKO8bZIwxpZW7","name":"Barovia Overworld","type":"Playlist","parent":null,"sorting":"m","sort":0,"color":"","flags":{}}
+{"_id":"GztFGfzckC369OT0","name":"Battle Encounters","type":"Playlist","parent":"Gt3xKO8bZIwxpZW7","sorting":"m","sort":0,"color":"","flags":{}}
+{"_id":"HUA00RSVNBAPqL4C","name":"Handouts","type":"JournalEntry","parent":"Jk5KcH0ChjaEyhin","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"a212e3543a46c034d43d72420db6238e8a3fa2f9"}}}
+{"_id":"I2vIdNP23lp2SSZA","name":"POI Navigators - Ignore","type":"JournalEntry","parent":"lIvxxji8GzfdteyZ","sorting":"a","sort":200000,"color":null,"flags":{"scene-packer":{"hash":"181d2b1828fa4f20e46a9363c7ca9e1150508231"}}}
+{"_id":"I5s2Dl3Qr6bU2l9X","name":"Village Barovia","type":"Scene","parent":"sexnSjedjsBXBOw6","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"c7bcabf0e86959c7d2f60a968541040cd50d9ebc"}}}
+{"_id":"Jk5KcH0ChjaEyhin","name":"Death House","type":"JournalEntry","parent":"vpOccFyaDNk82L1O","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"dd884599fb9817baeaff11417ea003d55c909a2f"},"core":{"sourceId":"Folder.Jk5KcH0ChjaEyhin"}}}
+{"name":"Nursemaid","type":"Actor","parent":"XvHbHP2d1Wmp6Vzw","sorting":"a","sort":0,"color":"#98020a","flags":{},"_id":"K9lTXwXo1rOsad0v"}
+{"_id":"KRyVvDCLpT7KEz8e","name":"Curse of Strahd","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"57121a5ecb8b0fac6658fa1b2709bf19e35f99ae"}}}
+{"_id":"Kiy1OAfxecUWUVVU","name":"Barovia Region Maps","type":"Scene","parent":"NzJzNf4y1MugTwK6","sorting":"a","sort":200000,"color":null,"flags":{"scene-packer":{"hash":"11b472f5aac55cbe7d9828deeb6798f953bbcb9c"}}}
+{"_id":"KwkV8MqVfLCW020z","name":"Streets/Fields","type":"Scene","parent":"I5s2Dl3Qr6bU2l9X","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"134582537dab706cf3d541ee5cd286a0b359abc7"}}}
+{"name":"Session Summaries","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#2fc19c","flags":{},"_id":"MeFjrBmBA1ZGcOuT"}
+{"_id":"MwAQDxDqtpW67EJf","name":"Map","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#5c0cd4","flags":{}}
+{"_id":"N2JPL1Hhfvla74MF","name":"Amber Temple Handouts","type":"JournalEntry","parent":"lIvxxji8GzfdteyZ","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"caeb8ad4b8c35eb1dec42a8c002c5bee3aee2d92"}}}
+{"_id":"NUqgi9biWCyUR945","name":"POI Navigators - Ignore","type":"JournalEntry","parent":"45up4OoueVWQiVef","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"551f6e778725b2a57d6e6f199d82e81db3a232e3"}}}
+{"_id":"NzJzNf4y1MugTwK6","name":"World Map/Woods/Roads","type":"Scene","parent":"sexnSjedjsBXBOw6","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"054a1f8b8d060b38c7bf6867968cced30b1f139f"},"core":{"sourceId":"Folder.NzJzNf4y1MugTwK6"}}}
+{"_id":"OLYhy0TuRMmTelsQ","name":"Village Barovia","type":"JournalEntry","parent":"vpOccFyaDNk82L1O","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"e60485bd7ca50cba16b4cbab7eb74027b50300b9"}}}
+{"_id":"PaTdAv0jGOamk3KO","name":"POI Navigators - Ignore","type":"JournalEntry","parent":"YgD58oU41qp0eDUF","sorting":"a","sort":200000,"color":null,"flags":{"scene-packer":{"hash":"5fe412b55c8b04255a7f278cf01c2431f3c4f735"},"core":{"sourceId":"Folder.PaTdAv0jGOamk3KO"}}}
+{"_id":"QnGF6kENt3ONW41u","name":"Baron Vallakovich House","type":"Scene","parent":"2RdktLyG8y6GzxZz","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"e7e6a628bdf83586b180bcc006641babc955f4b6"}}}
+{"_id":"QnXZ0lz1hJTZRw2c","name":"Handouts - 2F","type":"JournalEntry","parent":"eeM6Umi5CUi5GDDE","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"131a7b4c1e2c989459cb5d7a709d223d84930d80"}}}
+{"name":"Player Handouts","type":"JournalEntry","parent":null,"sorting":"m","sort":0,"color":"#d7ab0f","flags":{},"_id":"RXxSfXOgDY00l8d9"}
+{"_id":"ReG4obzfmoP6jhuG","name":"Tser Camp & Falls Handouts","type":"JournalEntry","parent":"YgD58oU41qp0eDUF","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"9b1f2fa5c982f4bcabbd9967a7186ab8d7dfc501"},"core":{"sourceId":"Folder.ReG4obzfmoP6jhuG"}}}
+{"_id":"S1SDbCQlnjoIQDzb","name":"Death House 1F","type":"Scene","parent":"it9cKSXnkEr5QIfJ","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"8b4c5bbc12e5511d5727133b4d1e435faf0b8ede"}}}
+{"name":"Vallaki","type":"Playlist","parent":null,"sorting":"m","sort":0,"color":"#eed73f","flags":{},"_id":"SJHXASC8vYkbwCLP"}
+{"_id":"TJnij1sSeYAmMT4a","name":"Stars","type":"Item","parent":"oTkaXDL6NarydIkm","sorting":"m","sort":0,"color":"","flags":{}}
+{"_id":"Twb8vO6oZTWl6eDc","name":"The Amber Temple","type":"Playlist","parent":null,"sorting":"m","sort":0,"color":"#d58d10","flags":{}}
+{"_id":"U1kAIfAh00nmR4uU","name":"Handouts - B2","type":"JournalEntry","parent":"eeM6Umi5CUi5GDDE","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"0d63f6ce9a2f125a8f7842ebc02511539845a9d2"}}}
+{"_id":"U98oRAUU6idSJn42","name":"Misc","type":"Playlist","parent":"Gt3xKO8bZIwxpZW7","sorting":"m","sort":0,"color":"#030202","flags":{}}
+{"_id":"VYm9hdQFx8GaoeBX","name":"Swords","type":"Item","parent":"oTkaXDL6NarydIkm","sorting":"m","sort":0,"color":"","flags":{}}
+{"_id":"WFusLCevQvs0Yq1s","name":"Blood of the Vine Tavern","type":"Scene","parent":"I5s2Dl3Qr6bU2l9X","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"eb48614424288a2531579bc541b57bf0ad5342c4"}}}
+{"_id":"XqL3Vwmv9TlHLQjP","name":"Barovia Region Dioramas","type":"Scene","parent":"NzJzNf4y1MugTwK6","sorting":"a","sort":300000,"color":null,"flags":{"scene-packer":{"hash":"938c899bd195a228a42b31e0ae4d10fa44bc6221"}}}
+{"name":"D&D Beyond Encounters","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#6f0006","flags":{},"_id":"XvHbHP2d1Wmp6Vzw"}
+{"_id":"YJ6jpvehXKjcH92J","name":"POI Navigators - Ignore","type":"JournalEntry","parent":"eeM6Umi5CUi5GDDE","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"f21b1a927aa4d7767aa452120074490518c6cfac"}}}
+{"_id":"YgD58oU41qp0eDUF","name":"Tser Pool Camp & Falls","type":"JournalEntry","parent":"vpOccFyaDNk82L1O","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"98b6fc3699c5922bd12c989f3deeaa4fdaa3336f"},"core":{"sourceId":"Folder.YgD58oU41qp0eDUF"}}}
+{"_id":"ZUVMmUmxNpHmR37b","name":"Barovia World Map","type":"Scene","parent":"NzJzNf4y1MugTwK6","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"f394a01e9929ed87c4f56fce4951fad0299eced9"}}}
+{"_id":"ZVP3P0VO1y9K4thp","name":"Death House 2F","type":"Scene","parent":"it9cKSXnkEr5QIfJ","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"5d46dde8976090d80ee8d3810dc867c01bd2939f"}}}
+{"_id":"ZxgPBOh0oItK4XXH","name":"Church","type":"Scene","parent":"I5s2Dl3Qr6bU2l9X","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"f9070420f045a5c956e481deb3f10246bc8a3049"}}}
+{"_id":"ZzFyF2AyMq7CGzkr","name":"Madame Eva's Tent","type":"Scene","parent":"rrj3BwruEBiJ9YeY","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"50b7bf262bfa77c4283c212140b2d7b48a208826"}}}
+{"_id":"bRRLg99869acrgdi","name":"POI Navigators - Ignore","type":"JournalEntry","parent":"BLGkpvszFtRHyyf2","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"0754df51a4c0d7845da4b91c811edf13d7bc0937"}}}
+{"name":"Tarokka Deck","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"c4lxu5jXjH5X0cjd"}
+{"_id":"ceH6MZsWes6Ij2QO","name":"Handouts - 6F-9F","type":"JournalEntry","parent":"eeM6Umi5CUi5GDDE","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"33e7bc80cbb9b5162d41dce36c41ec1ceccf95c1"}}}
+{"name":"Shadow","type":"Actor","parent":"XvHbHP2d1Wmp6Vzw","sorting":"a","sort":0,"color":"#98020a","flags":{},"_id":"ea1n5u9GfL0duA4y"}
+{"_id":"eeM6Umi5CUi5GDDE","name":"Castle Ravenloft","type":"JournalEntry","parent":"vpOccFyaDNk82L1O","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"ea07ffbf45999f6072a93246364c5e556c3347da"}}}
+{"_id":"emwLJcZ3hdSpT49L","name":"POI Navigators - Ignore","type":"JournalEntry","parent":"DTvEzfv8U9508Arl","sorting":"a","sort":200000,"color":null,"flags":{"scene-packer":{"hash":"73892f9f8a29e0e2422c20e67028ccc5e16dc8a0"},"core":{"sourceId":"Folder.emwLJcZ3hdSpT49L"}}}
+{"_id":"eoppffPYoendWmbe","name":"Handouts - 3F","type":"JournalEntry","parent":"eeM6Umi5CUi5GDDE","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"1b4059d0372b98be2fbd7621228a83f1a29206fe"}}}
+{"_id":"fYtDtx5h1G0B6u0H","name":"St. Andral's Orphanage","type":"Scene","parent":"2RdktLyG8y6GzxZz","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"3f883a9316d867abe345bae61157eb0574d001c0"}}}
+{"name":"High Deck","type":"Item","parent":"c4lxu5jXjH5X0cjd","sorting":"a","sort":0,"color":null,"flags":{},"_id":"gIaYwds4ry4NgaFw"}
+{"name":"_simple_calendar_notes_directory","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{"foundryvtt-simple-calendar":{"root":true},"scene-packer":{"hash":"14961d119426fe2cda6da97cf5ace6a5c192c8e6"}},"_id":"h7V4ORtquZg86h4T"}
+{"_id":"hbZAJDjLZ1VttJod","name":"Death House B1&B2","type":"Scene","parent":"it9cKSXnkEr5QIfJ","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"9356a9e0a2c60a1870a2de040eb5a690c4317a87"}}}
+{"_id":"irAKMG9DraEj4EqA","name":"Bildrath's","type":"Scene","parent":"I5s2Dl3Qr6bU2l9X","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"cb20fcdb348eb70a191e76aaaeeaf9f6b86f4c60"}}}
+{"_id":"it9cKSXnkEr5QIfJ","name":"Death House","type":"Scene","parent":"sexnSjedjsBXBOw6","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"c7d589a85e5813924a97f57b77d124bf917606a2"},"core":{"sourceId":"Folder.it9cKSXnkEr5QIfJ"}}}
+{"_id":"itJYfXmATlk2F0U0","name":"Handouts - 1F","type":"JournalEntry","parent":"eeM6Umi5CUi5GDDE","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"3a38a8b1d6480f9a053ea672c6b45a565021bd22"}}}
+{"_id":"kpNkfnMkwY8Xqwcz","name":"Handouts - 4F/5F","type":"JournalEntry","parent":"eeM6Umi5CUi5GDDE","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"76adefabe4b10c40ee984d2e38711cf2bbd3837e"}}}
+{"name":"DDB Macros","type":"Macro","parent":null,"sorting":"a","sort":0,"color":"#FF0000","flags":{},"_id":"lAtOjIPqjbuyD4E3"}
+{"_id":"lIvxxji8GzfdteyZ","name":"Amber Temple","type":"JournalEntry","parent":"vpOccFyaDNk82L1O","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"5afb058e3dbc2e8189dbf63c94be7e83ef752a8b"},"core":{"sourceId":"Folder.lIvxxji8GzfdteyZ"}}}
+{"_id":"nCMVzLWqnOKgJv6P","name":"POI Navigators - Ignore (2)","type":"JournalEntry","parent":"45up4OoueVWQiVef","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"df89d16f0aa416b9c24c54dd7e8149c638648f07"},"core":{"sourceId":"Folder.nCMVzLWqnOKgJv6P"}}}
+{"_id":"nWa6ts73IQl5eQuZ","name":"Barovia World Map","type":"JournalEntry","parent":"vpOccFyaDNk82L1O","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"c85e1bda2a45f8f0212edb41f25e037604114ac8"},"core":{"sourceId":"Folder.nWa6ts73IQl5eQuZ"}}}
+{"name":"Nursemaid","type":"JournalEntry","parent":"umX5jxvR0HZrwfb1","sorting":"a","sort":0,"color":"#98020a","flags":{},"_id":"nplNp1x6ZDBIaqNK"}
+{"_id":"oMt36p7EiTWotmHP","name":"Coins","type":"Item","parent":"oTkaXDL6NarydIkm","sorting":"m","sort":0,"color":null,"flags":{}}
+{"name":"Common Deck","type":"Item","parent":"c4lxu5jXjH5X0cjd","sorting":"a","sort":0,"color":null,"flags":{},"_id":"oTkaXDL6NarydIkm"}
+{"_id":"oxNS4ZCPzvh20vwu","name":"Death House 3F","type":"Scene","parent":"it9cKSXnkEr5QIfJ","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"a53e6696bdd21738fef654a095c4a372a4d289b9"}}}
+{"_id":"qIK9g98VXKMSVzj6","name":"Houses","type":"Scene","parent":"I5s2Dl3Qr6bU2l9X","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"8960d12f9f094eb1cafa1483db1c3296ef8e5bf5"}}}
+{"_id":"qIdvbC9dT9rRUNKt","name":"Svalich Woods/Camps","type":"Scene","parent":"NzJzNf4y1MugTwK6","sorting":"a","sort":500000,"color":null,"flags":{"scene-packer":{"hash":"34f3c77337032c572fbb1058d2d395d9e5232ca8"}}}
+{"_id":"qedkXZaECUt8clpF","name":"Death House 4F","type":"Scene","parent":"it9cKSXnkEr5QIfJ","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"7d9e8ba0edd4ac051685959143b73d232f7e8852"}}}
+{"_id":"qum6zvtX8xBzvoKl","name":"Glyphs","type":"Item","parent":"oTkaXDL6NarydIkm","sorting":"m","sort":0,"color":"","flags":{}}
+{"_id":"rMRAZf37DCmg2uZQ","name":"Tavern","type":"Playlist","parent":null,"sorting":"m","sort":0,"color":"#ed500c","flags":{}}
+{"_id":"rrj3BwruEBiJ9YeY","name":"Tser Pool Camp & Falls","type":"Scene","parent":"sexnSjedjsBXBOw6","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"2673eae2ab6af587b670bc90562ad317d7aaed52"},"core":{"sourceId":"Folder.rrj3BwruEBiJ9YeY"}}}
+{"_id":"s3YmR0nNwTCf7KXt","name":"POI Navigators - Ignore","type":"JournalEntry","parent":"5DgD9vmvaC8mKO27","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"752c5943d6b387e6fefeef897317792d34fd7de7"}}}
+{"_id":"sexnSjedjsBXBOw6","name":"Curse of Strahd","type":"Scene","parent":null,"sorting":"a","sort":300000,"color":null,"flags":{"scene-packer":{"hash":"20d58ef1b1a8464ac5f45c5ee7c42f3a6e1fabc7"}}}
+{"name":"Tarokka","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"soQKFdBtGkZp0Mb2"}
+{"_id":"tXgrFwt5bOZ7KMd0","name":"Wachter House","type":"Scene","parent":"2RdktLyG8y6GzxZz","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"7731ec8a9246d5e7e66b694e775b0fe0d371c97c"}}}
+{"name":"D&D Beyond Encounters","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#6f0006","flags":{},"_id":"umX5jxvR0HZrwfb1"}
+{"name":"Characters","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"d39450a092fcb4062f7b5e1f642ac62c3e063625"}},"_id":"vQMeegubCn437ayF"}
+{"_id":"vXh9jTA0ntxJMipr","name":"Handouts - B1","type":"JournalEntry","parent":"eeM6Umi5CUi5GDDE","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"dd23e04f9b4317b7d2f643b88d1623ff652efdb2"}}}
+{"_id":"vpOccFyaDNk82L1O","name":"Curse of Strahd","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"883f508377d9e8ed3e64ad495ba4a3df8847a2d4"}}}
+{"name":"Player Notes","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"wG8p6gcmKLSOseJ5"}
+{"_id":"wM3YayddT1k5KtKR","name":"St. Andral's Church","type":"Scene","parent":"2RdktLyG8y6GzxZz","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"171fe665d47d56d5825bc25273181a7001785225"}}}
+{"_id":"wTTMwvz3M0K4PxIO","name":"Orphanage Handouts","type":"JournalEntry","parent":"45up4OoueVWQiVef","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"1dbffef53706907f10bd754f030127ff595b8370"}}}
+{"_id":"yW0Noliu66DthkSX","name":"Tser Pool Approach","type":"Scene","parent":"rrj3BwruEBiJ9YeY","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"4a1b877909ea440b61e8801d0c260b2079640c88"}}}
